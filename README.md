@@ -1,5 +1,7 @@
 Manual de utilização do GlacX Oficinas - versão 2.3
 
+https://www.youtube.com/watch?v=AuPssqi51h4&list=PLqx8fDb-FZDHlwJyqe41Hg2hAX7qipASN
+
 
 1- Primeiro Acesso:
 Ao acessar o sistema pela primeira vez após a instalação, você terá de fazer o cadastro de um e-mail válido que você tenha acesso.
